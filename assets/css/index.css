@@ -1,6 +1,6 @@
 .layui-footer {
     text-align: center;
-    font-style: 12px;
+    font-size: 12px;
 }
 
 .iconfont {
@@ -29,7 +29,7 @@ iframe{
     height: 60px;
     text-align: center;
     line-height: 60px;
-    font-style: 12px;
+    font-size: 12px;
     border-bottom: 1px solid #000;
     user-select: none;
 }
@@ -46,7 +46,7 @@ iframe{
     border-radius: 50%;
     background-color: #009688;
     line-height: 40px;
-    font-style: 20px;
+    font-size: 20px;
     vertical-align: middle;
     text-align: center;
     margin-right: 10px;
